@@ -1,0 +1,84 @@
+body {
+    width: 1000px;
+    padding: 100px;
+    font-family: arial;
+}
+
+
+h1 {
+    font-weight: bold;
+    font-size: 30px;
+    color: #456789;
+    font-weight: bold;
+    text-align: right;
+}
+
+h2 {
+    font-weight: bold;
+    color: #456789;
+    font-size: 16px
+}
+
+h3 {
+    font-weight: bold;
+    font-size: 15px;
+}
+h4 {
+    font-weight: bold;
+    font-size: 15px;
+    text-align: center;
+    color: #87888b;
+}
+
+h5 {
+    font-weight: bold;
+    color: #87888b;
+    font-size: 16px
+}
+.section {
+  color: #456789;
+  border: 1px solid;
+}
+
+.container {
+  background-color: #ebf0f5;
+  width: 1020px;
+  padding: 10px;
+}
+
+.contact {
+  color: #87888b;
+  font-size: 15px;
+  font-weight: bold;
+  text-align: right;
+}
+
+.bullets {
+  font-size: 15px;
+}
+
+.quote {
+  padding-left: 25px;
+  padding-right: 25px;
+  padding-top: 10px;
+  padding-bottom: 8px;
+  line-height: 25px;
+}
+
+.roles {
+    height:330px;
+    width:200px;
+    float:left;
+    padding-left: 5px;
+    padding-right: 5px;
+    color: #87888b;
+}
+
+.rolesone {
+    height:140px;
+    width:200px;
+    float:left;
+    padding-left: 5px;
+    padding-right: 5px;
+    color: #87888b;
+}
