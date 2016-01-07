@@ -4,16 +4,6 @@ body {
     font-family: arial;
 }
 
-.quote {
-  padding-left: 25px;
-  padding-right: 25px;
-  padding-top: 10px;
-  padding-bottom: 8px;
-  background-color: #456789;
-  color: white;
-  line-height: 25px;
-}
-
 
 h1 {
     font-weight: bold;
@@ -33,7 +23,6 @@ h3 {
     font-weight: bold;
     font-size: 15px;
 }
-
 h4 {
     font-weight: bold;
     font-size: 15px;
@@ -46,7 +35,6 @@ h5 {
     color: #87888b;
     font-size: 16px
 }
-
 .section {
   color: #456789;
   border: 1px solid;
@@ -69,7 +57,13 @@ h5 {
   font-size: 15px;
 }
 
-
+.quote {
+  padding-left: 25px;
+  padding-right: 25px;
+  padding-top: 10px;
+  padding-bottom: 8px;
+  line-height: 25px;
+}
 
 .roles {
     height:330px;
