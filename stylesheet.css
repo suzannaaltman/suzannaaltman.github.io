@@ -63,6 +63,8 @@ h5 {
   padding-top: 10px;
   padding-bottom: 8px;
   line-height: 25px;
+  background-color: #456789;
+  color: white;
 }
 
 .roles {
